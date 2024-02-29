@@ -6,6 +6,9 @@ export default function App() {
     <View style={styles.container}>
       <Text>Quévin Willian da Silva</Text>
       <Text>Desenvolvimento de Dispositivos Móveis - 22/02/2024</Text>
+      <br></br>
+      <Text>Eai prof</Text>
+      <Text>Desenvolvimento de Dispositivos Móveis - 29/02/2024</Text>
       <StatusBar style="auto" />
     </View>
   );
